@@ -4,7 +4,8 @@ import os
 import time
 import requests
 
-BOT_TOKEN = os.getenv("7606452218:AAE9r3aqBkbaIjcNjX5HuSABvnjcJ6AqPS4
+BOT_TOKEN = os.getenv("HTTP API:
+7606452218:AAE9r3aqBkbaIjcNjX5HuSABvnjcJ6AqPS4
 ")
 CHAT_ID = os.getenv("@InversionesGregoBot")
 
